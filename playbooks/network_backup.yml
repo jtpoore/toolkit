@@ -1,6 +1,6 @@
 ---
 - name: retrieve network configurations
-  hosts: network
+  hosts: 172.16.67.254
   gather_facts: no
 
   tasks:
